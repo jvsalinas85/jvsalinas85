@@ -8,7 +8,7 @@ Hello! I'm Jesus Valencia, a passionate aspiring Full-Stack developer and a tech
 
 ## About this Repository 📁
 
-All the amazing work I've done over the past months on my learning journey is found in the next set of repositories. Feel free to explore and/or use each one to your advantage.
+All the amazing work I've done over the past months on my learning journey is found in the next set of repositories. Feel free to explore and/or use each one that suids your needs.
 
 <br>
 
